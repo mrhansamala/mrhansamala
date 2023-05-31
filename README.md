@@ -23,7 +23,7 @@ ___
  
   
 
- ​<img src="gifs/DOOZY 1.gif" alt="coding ?"> 
+ ​<img src="gifs/Drak 1.gif" alt="coding ?"> 
  
  ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> | <code>SHELL</code> | <code>JavaScript</code>
   
