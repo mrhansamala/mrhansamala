@@ -5,44 +5,69 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi++Iam+MR+Hansamala)](https://git.io/typing-svg) </div>
 
 
----
-##   **📊Github Stats**
-<div>
- <p><img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=Janithsadanuwan&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
- <p><a href="https://github.com/Janithsadanuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithsadanuwan&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Janithsadanuwan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" ></p>
- <p><img src="https://gpvc.arturio.dev/janithsadanuwan" width="30%" ></p>
+## <img src="gifs/wizard-cat.svg" width="250px">  <img src="gifs/coffee.svg" width="80px">  <img src="gifs/monitor.svg" width="125px">  <img src="gifs/phone.svg" width="75px"> 
+<p>
+    <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@𝖣𝖩 𝖣𝖮𝖮𝖹𝖸-30302f?style=flat&logo=telegram" /></a>
+
+___
+
+ </br>
+
+<div align="center">   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhansamala&layout=compact&theme=react"/>
+    &nbsp;
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=mrhansamala&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+</div>
+
+<br>
+ 
+  
+
+ ​<img src="gifs/DOOZY 1.gif" alt="coding ?"> 
+ 
+ ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> | <code>SHELL</code> | <code>JavaScript</code>
+  
+  
+
+  
+ ​</div>
+ 
+ 
+  
+## Social 📫..
+
+
+<a href="https://t.me/DOOZY_OFF">
+<img alt="Telegram" 
+src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    &nbsp;
+<a href="https://www.instagram.com/_dhananjaya.madhusanka">
+<img alt="Instagram" 
+src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
 </div>
 
 
 
 
-#### 🌱 I’m currently learning **Python, Node.js, HTML, CSS**
-
-#### [👨‍💻 All of my projects are available at >
-
-#### 💫 **I am a beginner developer. 🌆**
 
 
+___
+ 
 
 
-
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Janithsadanuwan)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Janithsadanuwan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+ 
+ ​-​ ![​Profile views​](https://gpvc.arturio.dev/mrhansamala) 
+ ​-​ [![​GitHub followers​](https://img.shields.io/github/followers/mrhansamala.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mrhansamala?tab=followers) 
 
 
 
-</details>
 
 
+
+
+
+ 
+ ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
+ ​![​VisitorCount​](https://profile-counter.glitch.me/{mrhansamala}/count.svg)
