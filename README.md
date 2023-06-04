@@ -46,12 +46,12 @@ ___
 ## Social 📫..
 
 
-<a href="https://t.me/DOOZY_OFF">
+<a href="https://t.me/">
 <img alt="Telegram" 
 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;
-<a href="https://www.instagram.com/_dhananjaya.madhusanka">
+<a href="https://www.instagram.com/">
 <img alt="Instagram" 
 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
