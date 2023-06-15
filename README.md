@@ -7,8 +7,7 @@
 
 ## <img src="gifs/wizard-cat.svg" width="250px">  <img src="gifs/coffee.svg" width="80px">  <img src="gifs/monitor.svg" width="125px">  <img src="gifs/phone.svg" width="75px"> 
 <p>
-    <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@𝖣𝖩 𝖣𝖮𝖮𝖹𝖸-30302f?style=flat&logo=telegram" /></a>
-
+    
 ___
 
  </br>
@@ -23,11 +22,10 @@ ___
 
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/SamPandey001?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/SamPandey001/Secktor-Md)
+[![Metrics](https://metrics.lecoq.io/mrhansamala?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/mrhansamala)
 ---
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919628516236)
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sam_Pandey) <br>
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94781708673)
 
  
   
