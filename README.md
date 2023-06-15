@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi++Iam+MR+Hansamala)](https://git.io/typing-svg) </div>
 
 
-## <img src="gifs/wizard-cat.svg" width="250px">  <img src="gifs/coffee.svg" width="80px">  <img src="gifs/monitor.svg" width="125px">  <img src="gifs/phone.svg" width="75px"> 
+## <img src="gifs/wizard-cat.webp" width="250px"> 
 <p>
     
 ___
