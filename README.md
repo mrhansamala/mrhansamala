@@ -57,7 +57,10 @@ src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&lo
 
 
 
+### :unicorn: Repo Stats : 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=mrhansamala&repo=Queen-Nethu-MD-V2&theme=radical)
 
+---
 
 
 ___
