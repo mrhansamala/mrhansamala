@@ -62,6 +62,9 @@ src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&lo
 
 ---
 
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
 
 ___
  
