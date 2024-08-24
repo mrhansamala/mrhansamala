@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mrhansamala&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mrhansamala)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mrhansamala&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/mrhansamala)
 
 
 ## <img src="gifs/wizard-cat.webp" width="450px"> 
