@@ -1,8 +1,4 @@
-#  I am MR>Hansamala  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi++Iam+MR+Hansamala)](https://git.io/typing-svg) </div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mrhansamala&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mrhansamala)
 
 
 ## <img src="gifs/wizard-cat.webp" width="450px"> 
