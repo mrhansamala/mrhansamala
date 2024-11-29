@@ -5,7 +5,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/mrhansamala)
 
  <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
